@@ -14,6 +14,7 @@ public class Main {
     }
 
 	/**
+	 * Comprueba si la cuenta está operativa
 	 * @param cuenta1
 	 * @param cantidad
 	 */
